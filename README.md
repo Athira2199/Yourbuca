@@ -8,5 +8,11 @@
   
 ## Api endpoints
 1. All users : localhost:5000/user/all
-2. Signup    : localhost:5000/user/signup
+2. Signup    : localhost:5000/user/signup<br>
+    parameters : <br>
+     email       <br>
+     name   <br>
+     phoneNumber<br>
+     date    <br>
+     password<br>
 3. Login     : localhost:5000/user/login

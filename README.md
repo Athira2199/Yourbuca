@@ -15,7 +15,7 @@
        3. phoneNumber
        4. date    
        5. password
-3. Login     : localhost:5000/user/login
+3. Login     : localhost:5000/user/login<br>
        parameters <br>
          1. email      
          2. password  

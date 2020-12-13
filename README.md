@@ -12,7 +12,7 @@
     parameters <br>
        1. email      
        2. name  
-       3. phoneNumber
+       3. phoneNumber <br>
        4. date    
        5. password
 3. Login     : localhost:5000/user/login<br>
